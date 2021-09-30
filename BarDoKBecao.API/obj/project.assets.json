@@ -72,11 +72,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.API\\BarDoKBecao.API.csproj",
+      "projectUniqueName": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.API\\BarDoKBecao.API.csproj",
       "projectName": "BarDoKBecao.API",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.API\\BarDoKBecao.API.csproj",
+      "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.API\\BarDoKBecao.API.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.API\\obj\\",
+      "outputPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -96,14 +96,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj"
+            "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj": {
+              "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj"
             },
-            "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj"
+            "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {
+              "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj"
             },
-            "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj"
+            "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj": {
+              "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj"
             }
           }
         }

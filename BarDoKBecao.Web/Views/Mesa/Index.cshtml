@@ -1,0 +1,47 @@
+﻿@model IEnumerable<BarDoKBecao.Web.Models.Mesa>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Nova">Cadastrar Nova Mesa</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataAbertura)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataAbertura)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.Numero  }) |
+                @Html.ActionLink("Details", "Details", new { id=item.Numero }); |
+                @Html.ActionLink("Delete", "Delete", new {  id=item.Numero })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,43 @@
+﻿@model BarDoKBecao.Web.Models.Mesa
+
+@{
+    ViewData["Title"] = "Nova";
+}
+
+<h1>Nova</h1>
+
+<h4>Mesa</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Nova">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Numero" class="control-label"></label>
+                <input asp-for="Numero" class="form-control" />
+                <span asp-validation-for="Numero" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DataAbertura" class="control-label"></label>
+                <input asp-for="DataAbertura" class="form-control" />
+                <span asp-validation-for="DataAbertura" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

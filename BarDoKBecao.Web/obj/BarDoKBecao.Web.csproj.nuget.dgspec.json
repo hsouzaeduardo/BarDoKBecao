@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj": {}
+    "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj": {
+    "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj",
+        "projectUniqueName": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj",
         "projectName": "BarDoKBecao.Web",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj",
+        "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Web\\BarDoKBecao.Web.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Web\\obj\\",
+        "outputPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,10 @@
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
               "version": "[3.1.19, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [

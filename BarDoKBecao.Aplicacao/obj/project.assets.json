@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj",
+      "projectUniqueName": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj",
       "projectName": "BarDoKBecao.Aplicacao",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj",
+      "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Aplicacao\\BarDoKBecao.Aplicacao.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Aplicacao\\obj\\",
+      "outputPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -76,11 +76,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj"
+            "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {
+              "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj"
             },
-            "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj"
+            "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj": {
+              "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Infra\\BarDoKBecao.Infra.csproj"
             }
           }
         }

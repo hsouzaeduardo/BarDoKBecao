@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {}
+    "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {
+    "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj",
+        "projectUniqueName": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj",
         "projectName": "BarDoKBecao.Entidades",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj",
+        "projectPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\BarDoKBecao.Entidades.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\BarDoKBecao\\BarDoKBecao.Entidades\\obj\\",
+        "outputPath": "C:\\projeto\\BarDoKBecao\\BarDoKBecao.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
