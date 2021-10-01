@@ -398,3 +398,4 @@ C:\projeto\BarDoKBecao\BarDoKBecao.Web\obj\Debug\netcoreapp3.1\BarDoKBecao.Web.g
 C:\projeto\BarDoKBecao\BarDoKBecao.Web\obj\Debug\netcoreapp3.1\Razor\Views\Mesa\Index.cshtml.g.cs
 C:\projeto\BarDoKBecao\BarDoKBecao.Web\obj\Debug\netcoreapp3.1\Razor\Views\Mesa\Edit.cshtml.g.cs
 C:\projeto\BarDoKBecao\BarDoKBecao.Web\obj\Debug\netcoreapp3.1\Razor\Views\Mesa\Nova.cshtml.g.cs
+C:\projeto\BarDoKBecao\BarDoKBecao.Web\obj\Debug\netcoreapp3.1\Razor\Views\Mesa\_lista.cshtml.g.cs

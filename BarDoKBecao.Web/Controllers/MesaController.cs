@@ -24,6 +24,7 @@ namespace BarDoKBecao.Web.Controllers
         public IActionResult Index()
         {
             return View(_mesas);
+            //return View();
         }
 
         public IActionResult Edit(int id)
@@ -44,7 +45,7 @@ namespace BarDoKBecao.Web.Controllers
 
         public IActionResult Nova()
         {
-            return View(new Mesa());
+            return View(new Mesa() {Status = Mesa.StatusMesa.Livre });
         }
 
         [HttpPost]

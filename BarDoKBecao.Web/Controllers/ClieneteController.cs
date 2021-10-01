@@ -16,13 +16,13 @@ namespace BarDoKBecao.Web.Controllers
         }
 
         [HttpPost]
-        [Route("/cliente/novo{regex:(^\\d{3}.d{3}.d{3}-d{3})$}")]
+        [Route("cliente/novo")]
         public IActionResult Cadastro([FromForm] Cliente cliente)
         {
             return View();
         }
 
-        [Route("/cliente/buscar/{cpf}")]
+        [Route("/cliente/buscar/{cpf}")] //:regex(^\\d{{3}}.d{{3}}.d{{3}}-d{{3}})$}")]
         public IActionResult Cadastro(Int64 cpf)
         {
             return View();
