@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BarDoKBecao.Web.Controllers
 {
-    public class ClieneteController : Controller
+    public class ClienteController : Controller
     {
         [Route("/cliente/novo")]
         public IActionResult Cadastro()

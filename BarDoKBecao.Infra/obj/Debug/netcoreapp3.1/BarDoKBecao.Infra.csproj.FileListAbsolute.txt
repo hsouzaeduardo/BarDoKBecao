@@ -1,0 +1,16 @@
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\bin\Debug\netcoreapp3.1\BarDoKBecao.Infra.deps.json
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\bin\Debug\netcoreapp3.1\BarDoKBecao.Infra.runtimeconfig.json
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\bin\Debug\netcoreapp3.1\BarDoKBecao.Infra.runtimeconfig.dev.json
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\bin\Debug\netcoreapp3.1\BarDoKBecao.Infra.dll
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\bin\Debug\netcoreapp3.1\BarDoKBecao.Infra.pdb
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\bin\Debug\netcoreapp3.1\BarDoKBecao.Entidades.dll
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\bin\Debug\netcoreapp3.1\BarDoKBecao.Entidades.pdb
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.csproj.AssemblyReference.cache
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.AssemblyInfoInputs.cache
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.AssemblyInfo.cs
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.csproj.CoreCompileInputs.cache
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.csproj.CopyComplete
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.dll
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.pdb
+C:\projeto\BarDoKBecao\BarDoKBecao.Infra\obj\Debug\netcoreapp3.1\BarDoKBecao.Infra.genruntimeconfig.cache

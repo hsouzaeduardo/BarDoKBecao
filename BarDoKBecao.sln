@@ -7,15 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{87E34460-D3F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{00FEF15A-2EAB-41A0-A67E-AE24CB660663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarDoKBecao.Web", "BarDoKBecao.Web\BarDoKBecao.Web.csproj", "{A0EBFA7C-CF81-4025-9D94-E267EF9CCA3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarDoKBecao.Web", "BarDoKBecao.Web\BarDoKBecao.Web.csproj", "{A0EBFA7C-CF81-4025-9D94-E267EF9CCA3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarDoKBecao.API", "BarDoKBecao.API\BarDoKBecao.API.csproj", "{953F8F4C-5642-4354-B06F-18C48D1260D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarDoKBecao.API", "BarDoKBecao.API\BarDoKBecao.API.csproj", "{953F8F4C-5642-4354-B06F-18C48D1260D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarDoKBecao.Entidades", "BarDoKBecao.Entidades\BarDoKBecao.Entidades.csproj", "{AA8073DE-F64D-4448-91AD-F240015F986B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarDoKBecao.Entidades", "BarDoKBecao.Entidades\BarDoKBecao.Entidades.csproj", "{AA8073DE-F64D-4448-91AD-F240015F986B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarDoKBecao.Infra", "BarDoKBecao.Infra\BarDoKBecao.Infra.csproj", "{A4430DDA-5FBF-4153-8BF9-0742DD3C5940}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarDoKBecao.Infra", "BarDoKBecao.Infra\BarDoKBecao.Infra.csproj", "{A4430DDA-5FBF-4153-8BF9-0742DD3C5940}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarDoKBecao.Aplicacao", "BarDoKBecao.Aplicacao\BarDoKBecao.Aplicacao.csproj", "{B1BFE741-208B-4960-B3E7-DD4123630D3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarDoKBecao.Aplicacao", "BarDoKBecao.Aplicacao\BarDoKBecao.Aplicacao.csproj", "{B1BFE741-208B-4960-B3E7-DD4123630D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarDoKBecao.Dominio.Teste", "BarDoKBecao.Dominio.Teste\BarDoKBecao.Dominio.Teste.csproj", "{4A9F91C2-BB6B-42AB-859B-398D7A6CB487}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{B1BFE741-208B-4960-B3E7-DD4123630D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1BFE741-208B-4960-B3E7-DD4123630D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1BFE741-208B-4960-B3E7-DD4123630D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9F91C2-BB6B-42AB-859B-398D7A6CB487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9F91C2-BB6B-42AB-859B-398D7A6CB487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9F91C2-BB6B-42AB-859B-398D7A6CB487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9F91C2-BB6B-42AB-859B-398D7A6CB487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{AA8073DE-F64D-4448-91AD-F240015F986B} = {00FEF15A-2EAB-41A0-A67E-AE24CB660663}
 		{A4430DDA-5FBF-4153-8BF9-0742DD3C5940} = {00FEF15A-2EAB-41A0-A67E-AE24CB660663}
 		{B1BFE741-208B-4960-B3E7-DD4123630D3A} = {00FEF15A-2EAB-41A0-A67E-AE24CB660663}
+		{4A9F91C2-BB6B-42AB-859B-398D7A6CB487} = {00FEF15A-2EAB-41A0-A67E-AE24CB660663}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6600B2A-0E5E-4E6B-BA66-2461D52D9C98}

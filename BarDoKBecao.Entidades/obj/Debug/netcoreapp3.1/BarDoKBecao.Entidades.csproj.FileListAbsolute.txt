@@ -1,0 +1,10 @@
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\bin\Debug\netcoreapp3.1\BarDoKBecao.Entidades.deps.json
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\bin\Debug\netcoreapp3.1\BarDoKBecao.Entidades.dll
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\bin\Debug\netcoreapp3.1\BarDoKBecao.Entidades.pdb
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\obj\Debug\netcoreapp3.1\BarDoKBecao.Entidades.csproj.AssemblyReference.cache
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\obj\Debug\netcoreapp3.1\BarDoKBecao.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\obj\Debug\netcoreapp3.1\BarDoKBecao.Entidades.AssemblyInfoInputs.cache
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\obj\Debug\netcoreapp3.1\BarDoKBecao.Entidades.AssemblyInfo.cs
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\obj\Debug\netcoreapp3.1\BarDoKBecao.Entidades.csproj.CoreCompileInputs.cache
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\obj\Debug\netcoreapp3.1\BarDoKBecao.Entidades.dll
+C:\projeto\BarDoKBecao\BarDoKBecao.Entidades\obj\Debug\netcoreapp3.1\BarDoKBecao.Entidades.pdb
